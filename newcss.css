@@ -1,0 +1,29 @@
+h1{
+    font-size: 4em;
+    color: white;
+    font-family:impact;
+    text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000; 
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke: 3px black;
+}
+body{
+
+    background-image: url(https://c.wallhere.com/photos/be/cf/Michael_Jordan-240262.jpg!d);
+    background-repeat: yes-repeat;
+    background-attachment: fixed;
+}
+h2
+font-size: 4em;
+color: white;
+font-family:impact;
+text-shadow: -1px -1px 1px #000, 1px 1px 1px #000, -1px 1px 1px #000, 1px -1px 1px #000; 
+-webkit-text-fill-color: white;
+-webkit-text-stroke: 3px black;
+
+table {
+  border: 2px solid;
+}
+table th, table td, table tr {
+  border: 1px solid;
+  text-align:center;
+  
